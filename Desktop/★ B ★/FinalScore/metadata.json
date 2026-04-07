@@ -1,0 +1,5 @@
+{
+  "name": "FinalScore - AI 축구 예측 서비스",
+  "description": "최근 경기 가중치 및 Poisson 분포 기반 정밀 축구 스코어 예측 서비스",
+  "requestFramePermissions": []
+}
